@@ -10,6 +10,8 @@
 
 ###### tel: +37063912569
 
+###### Lithuania Vilnius
+
 [My profile in Github](https://github.com/alenaKrykshtul)
 
 >                                                                                               my life credo:
@@ -21,8 +23,9 @@
 
 ## About me:
 
-![it's me](D:\RS SHOOL\rs_school\rsschool-cv\img\IMG_20200826_190315.jpg)
-I am a teacher, photographer, journalist, lawyer and a good front-end developer
+#### I am a teacher, photographer, journalist, lawyer and a good front-end developer
+
+![it's me](img\IMG_20200826_190315.jpg)
 
 ### MY skills
 
@@ -30,3 +33,7 @@ I am a teacher, photographer, journalist, lawyer and a good front-end developer
 - CSS/SCSS
 - JavaScript (Basic)
 - Git
+
+### Language:
+
+English level - A1-A2
