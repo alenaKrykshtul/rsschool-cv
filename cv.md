@@ -10,9 +10,7 @@
 
 ###### tel: +37063912569
 
-##### [My profile in Github] (https://github.com/alenaKrykshtul)
-
-================
+[My profile in Github](https://github.com/alenaKrykshtul)
 
 >                                                                                               my life credo:
 >
@@ -23,7 +21,7 @@
 
 ## About me:
 
-![it's me] (D:\RS SHOOL\rs_school\rsschool-cv\img\IMG_20200826_190315.jpg)
+![it's me](D:\RS SHOOL\rs_school\rsschool-cv\img\IMG_20200826_190315.jpg)
 I am a teacher, photographer, journalist, lawyer and a good front-end developer
 
 ### MY skills
