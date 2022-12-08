@@ -1,6 +1,12 @@
 **Hello, IT world!**
 
-#### My name is Alena Krykshtul
+---
+
+## rsschool-cv
+
+---
+
+## Alena Krykshtul
 
 ###### tel: +37063912569
 
@@ -19,3 +25,10 @@
 
 ![it's me] (D:\RS SHOOL\rs_school\rsschool-cv\img\IMG_20200826_190315.jpg)
 I am a teacher, photographer, journalist, lawyer and a good front-end developer
+
+### MY skills
+
+- HTML
+- CSS/SCSS
+- JavaScript (Basic)
+- Git
