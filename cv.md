@@ -8,7 +8,7 @@
 
 ###### Lithuania Vilnius
 
-## :paperclip: [My profile in Github](https://github.com/alenaKrykshtul)
+## :paperclip: [My profile in Github](https://alenaKrykshtul.github.io/rsschool-cv/cv)
 
 >                                                                                               my life credo:
 >
