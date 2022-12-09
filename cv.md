@@ -1,10 +1,6 @@
 **Hello, IT world!**
 
----
-
 ## rsschool-cv
-
----
 
 ## Alena Krykshtul
 
@@ -26,6 +22,7 @@
 #### I am a teacher, photographer, journalist, lawyer and a good front-end developer
 
 ![it's me](/img/IMG_20200826_190315.jpg)
+:star: My goal is to become an IT professional. I want to develop my own application :star:
 
 ### MY skills
 
