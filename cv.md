@@ -25,7 +25,7 @@
 
 #### I am a teacher, photographer, journalist, lawyer and a good front-end developer
 
-![it's me](img\IMG_20200826_190315.jpg)
+![it's me](/img/IMG_20200826_190315.jpg)
 
 ### MY skills
 
@@ -36,4 +36,16 @@
 
 ### Language:
 
-English level - A1-A2
+- Russian - native speaker
+- English level - A1-A2
+
+### Code Example
+
+```
+alert('Привет')
+alert('Мир')
+```
+
+### My projects
+
+[CV](https://github.com/alenaKrykshtul/rsschool-cv/blob/gh-pages/cv.md)
