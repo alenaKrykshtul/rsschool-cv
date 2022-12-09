@@ -1,14 +1,14 @@
-**Hello, IT world!**
+:mega: **Hello, IT world!**
 
-## rsschool-cv
+:page_facing_up: ## rsschool-cv
 
-## Alena Krykshtul
+:womens: ## Alena Krykshtul
 
-###### tel: +37063912569
+:phone: ###### tel: +37063912569
 
 ###### Lithuania Vilnius
 
-[My profile in Github](https://github.com/alenaKrykshtul)
+:paperclip: ## [My profile in Github](https://github.com/alenaKrykshtul)
 
 >                                                                                               my life credo:
 >
@@ -17,32 +17,33 @@
 
                                                                                                 Марк Твен
 
-## About me:
+:books: ## About me:
 
 #### I am a teacher, photographer, journalist, lawyer and a good front-end developer
 
 ![it's me](/img/IMG_20200826_190315.jpg)
+
 :star: My goal is to become an IT professional. I want to develop my own application :star:
 
-### MY skills
+:mag_right: ### MY skills
 
 - HTML
 - CSS/SCSS
 - JavaScript (Basic)
 - Git
 
-### Language:
+:sound: ### Language:
 
 - Russian - native speaker
 - English level - A1-A2
 
-### Code Example
+:books: ### Code Example
 
 ```
 alert('Привет')
 alert('Мир')
 ```
 
-### My projects
+:sound: ### My projects
 
 [CV](https://github.com/alenaKrykshtul/rsschool-cv/blob/gh-pages/cv.md)
