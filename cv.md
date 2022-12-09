@@ -1,10 +1,10 @@
-:mega: **Hello, IT world!**
-
-## :page_facing_up: [rsschool-cv](https://github.com/alenaKrykshtul/rsschool-cv/blob/gh-pages/cv.md)
+:mega:**Hello, IT world!**
 
 ## :womens: Alena Krykshtul
 
 ###### :phone: tel: +37063912569
+
+###### :e-mail: alena.sammittv@gmail.com
 
 ###### Lithuania Vilnius
 
