@@ -1,3 +1,2 @@
-https://alenakrykshtul.github.io/rsschool-cv/cv
-
-https://alenakrykshtul.github.io/rsschool-cv/
+https://alenaKrykshtul.github.io/rsschool-cv/cv
+https://alenaKrykshtul.github.io/rsschool-cv/
