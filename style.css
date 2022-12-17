@@ -42,6 +42,8 @@ li a {
 .img {
   margin: 40px;
   width: 40%;
+  position: relative;
+  top: 20px;
 }
 img {
   width: 250px;
