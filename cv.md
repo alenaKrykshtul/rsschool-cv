@@ -41,10 +41,19 @@
 ### :books: Code Example
 
 ```
-alert('Привет')
-alert('Мир')
+function strCount(obj){
+var  count = 0;
+  for (var val in obj){
+    if(typeof obj[val] === 'object'){
+      count += strCount(obj[val]);
+          }
+    if (typeof obj[val] === "string"){
+      count++;
+    }
+  }
+}
 ```
 
 ### :sound: My projects
 
-[CV](https://github.com/alenaKrykshtul/rsschool-cv/blob/gh-pages/cv.md)
+[Plants](https://rolling-scopes-school.github.io/alenakrykshtul-JSFEPRESCHOOL2022Q4/plants/)
