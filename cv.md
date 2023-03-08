@@ -41,6 +41,7 @@
 ### :books: Code Example
 
 ```
+ gh-pages
 function strCount(obj){
 var  count = 0;
   for (var val in obj){
@@ -52,8 +53,16 @@ var  count = 0;
     }
   }
 }
+
+alert('Привет')
+alert('Мир')
+main
 ```
 
 ### :sound: My projects
 
+ gh-pages
 [Plants](https://rolling-scopes-school.github.io/alenakrykshtul-JSFEPRESCHOOL2022Q4/plants/)
+
+[CV](https://github.com/alenaKrykshtul/rsschool-cv/blob/gh-pages/cv.md)
+ main
