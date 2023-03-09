@@ -64,16 +64,59 @@ li a::after {
   margin: 0 auto;
   background-image: url(img/1626741709_15-kartinkin-com-p-belii-fon-geometriya-krasivo-16.jpg);
 }
+#about {
+  display: flex;
+  justify-content: space-between;
+}
 .img {
-  width: 500px;
-  margin: 30px;
-  padding-top: 20px;
+  width: 400px;
+  padding-left: 40px;
+  margin-top: -20px;
+}
+.img img {
+  border-radius: 10%;
+  max-width: 100%;
+  box-shadow: 10px 5px 5px rgb(164, 164, 164);
 }
 img {
   border-radius: 10%;
   max-width: 100%;
 }
+.clips {
+  width: 50px;
+  position: relative;
+  z-index: 1;
+  padding-left: 210px;
+}
+.clips2 {
+  width: 50px;
+  position: relative;
+  z-index: 1;
+  padding-left: 150px;
+}
 
+.text {
+  display: block;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 600px;
+}
+.desk {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 10px 5px 5px rgb(164, 164, 164);
+  width: 400px;
+  height: 400px;
+  margin: -10px;
+}
+h2 {
+  font-size: 30px;
+  padding-bottom: 15px;
+  margin: 0;
+  padding: 0;
+}
+.about__text {
+  padding: 30px 45px 0 45px;
+}
 /* .wrapper {
   min-width: 100%;
   margin: 0 auto;
