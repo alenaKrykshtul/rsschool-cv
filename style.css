@@ -1,4 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@400;700&family=Inter:wght@400;700&display=swap");
+
 .wrapper {
+  background-color: rgb(4, 2, 42);
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+.header {
+  background-image: url(img/1626741709_15-kartinkin-com-p-belii-fon-geometriya-krasivo-16.jpg);
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  width: 100%;
+}
+.list {
+  display: flex;
+
+  justify-content: space-between;
+  text-align: center;
+}
+li {
+  list-style: none;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 40px;
+  position: relative;
+}
+li a {
+  color: rgb(9, 29, 46);
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.25em;
+  display: inline-block;
+  position: relative;
+  font-family: inika;
+}
+li a:hover::after {
+  width: 100%;
+  right: 0;
+}
+li a::after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: -4px;
+  content: "";
+  display: block;
+  height: 4px;
+  right: 0;
+  position: absolute;
+  background: linear-gradient(to right, #f69ec4, #f9dd94 100%);
+  transition: width 0.5s ease 0s, right 0.5s ease 0s;
+  width: 0;
+}
+.colum1 {
+  color: rgb(138, 145, 150);
+  text-align: center;
+  font-family: inika;
+}
+.container__main {
+  max-width: 1180px;
+  margin: 0 auto;
+  background-image: url(img/1626741709_15-kartinkin-com-p-belii-fon-geometriya-krasivo-16.jpg);
+}
+.img {
+  width: 500px;
+  margin: 30px;
+  padding-top: 20px;
+}
+img {
+  border-radius: 10%;
+  max-width: 100%;
+}
+
+/* .wrapper {
   min-width: 100%;
   margin: 0 auto;
   display: inline-block;
@@ -160,4 +236,4 @@ p {
   .list {
     height: 80px;
   }
-}
+} */
